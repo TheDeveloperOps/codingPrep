@@ -1,0 +1,1 @@
+# symbol related pattern codes
